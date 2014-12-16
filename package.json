@@ -1,6 +1,6 @@
 {
   "name": "ip-cli",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -15,7 +15,7 @@
     "type": "git",
     "url": "https://github.com/i5ting/ip-cli.git"
   },
-  "author": "",
+  "author": "i5ting",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/i5ting/ip-cli/issues"
