@@ -2,7 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/ip-cli.svg)](http://badge.fury.io/js/ip-cli)
 
-a npm for show local ip
+a npm for show local ip && copy ip to clipboard
 
 ## Install
 
@@ -13,6 +13,7 @@ a npm for show local ip
 	➜  ip-cli git:(master) ip
 	192.168.1.120
 	
+now ,you can `ctrl + v` or `command +v` to paste it anywhere.
 
 ## Contributing
 
