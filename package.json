@@ -1,11 +1,11 @@
 {
   "name": "ip-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "index.js",
   "scripts": {
-		"start": "npm publish .",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "npm publish .",
+    "test" : "node bin/ip.js"
   },
   "preferGlobal": "true",
   "bin": {
@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/i5ting/ip-cli",
   "dependencies": {
+    "cliparoo": "^1.0.0",
     "ip": "^0.3.2"
   }
 }
