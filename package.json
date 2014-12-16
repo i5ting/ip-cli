@@ -1,0 +1,27 @@
+{
+  "name": "ip-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+		"start": "npm publish .",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "preferGlobal": "true",
+  "bin": {
+    "ip": "bin/ip.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/i5ting/ip-cli.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/i5ting/ip-cli/issues"
+  },
+  "homepage": "https://github.com/i5ting/ip-cli",
+  "dependencies": {
+    "ip": "^0.3.2"
+  }
+}
