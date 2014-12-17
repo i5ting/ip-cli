@@ -1,8 +1,8 @@
 # ip-cli(npm)
 
-[![npm version](https://badge.fury.io/js/ip-cli.svg)](http://badge.fury.io/js/ip-cli)
-
 a cli tool for show local ip && copy ip to clipboard
+
+[![npm version](https://badge.fury.io/js/ip-cli.svg)](http://badge.fury.io/js/ip-cli)
 
 ## Install
 
